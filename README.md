@@ -4,10 +4,13 @@
 - 💻 Programador em desenvolvimento
 - 👨‍🎓 Estudando na instituição FIAP (Análise e Desenvolvimento de Sistemas)
 - 📫 Contate-me no E-mail: gustavogaiotti2014@gmail.com  
-<div align="center">
+
+
+
+<div>
+ 
   <a href="https://github.com/GusGaiotti">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gusgaiotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusgaiotti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
