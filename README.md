@@ -1,8 +1,13 @@
 ## Olá, sou Gustavo Gaiotti
 
-- 🏦 Atualmente trabalho em C6 Bank
-- 💻 Programador em desenvolvimento
-- 👨‍🎓 Estudando na instituição FIAP (Análise e Desenvolvimento de Sistemas)
+- Atualmente trabalho no C6 Bank
+
+- Formado em Análise e Desenvolvimento de Sistemas pela FIAP.
+
+- Cursando bacharelado em Ciência da Computação.
+
+-  Pós graduando em Cybersegurança na Cruzeiro do Sul.
+
 - 📫 Contate-me no E-mail: gustavogaiotti2014@gmail.com  
 
  
