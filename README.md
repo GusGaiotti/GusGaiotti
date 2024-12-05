@@ -8,7 +8,7 @@
 
 -  Pós graduando em Cybersegurança na Cruzeiro do Sul.
 
-- 📫 Contate-me no E-mail: gustavogaiotti2014@gmail.com  
+- 📫 Contate-me no E-mail: gusgaiotti77@gmail.com  
 
  
   <div> 
