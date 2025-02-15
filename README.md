@@ -1,7 +1,5 @@
 ## Olá, sou Gustavo Gaiotti
 
-- Atualmente trabalho no C6 Bank
-
 - Formado em Análise e Desenvolvimento de Sistemas pela FIAP.
 
 - Cursando bacharelado em Ciência da Computação.
