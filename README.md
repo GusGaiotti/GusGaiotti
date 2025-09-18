@@ -1,10 +1,12 @@
 ## Olá, sou Gustavo Gaiotti
 
+- Conta de projetos pessoais.
+
 - Formado em Análise e Desenvolvimento de Sistemas pela FIAP.
 
-- Cursando bacharelado em Ciência da Computação.
+-  Pós graduado em Cybersegurança na Cruzeiro do Sul.
 
--  Pós graduando em Cybersegurança na Cruzeiro do Sul.
+- Cursando bacharelado em Ciência da Computação.
 
 - 📫 Contate-me no E-mail: gusgaiotti77@gmail.com  
 
