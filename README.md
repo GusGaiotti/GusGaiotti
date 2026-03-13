@@ -11,7 +11,7 @@
     <strong>Backend / Fullstack Developer</strong> based in São Paulo, Brazil. I am dedicated to engineering scalable, secure, and high-performance solutions. I am driven by <strong>Clean Code</strong>, SOLID principles, and modern system architecture.
   </p>
   <p>
-    My core expertise lies in <strong>Java 17+ (+ Spring Boot)</strong> and the <strong>JavaScript ecosystem (Node.js, TypeScript, and React)</strong>. I also have practical experience building <strong>Serverless architectures on AWS</strong> and automating complex workflows using <strong>Python</strong>.
+    My core expertise lies in <strong>Java 17 + (Spring Boot)</strong> and the <strong>JavaScript ecosystem (Node.js, TypeScript, and React)</strong>. I also have practical experience building <strong>Serverless architectures on AWS</strong> and automating complex workflows using <strong>Python</strong>.
   </p>
   <p>
     I hold a degree in <strong>Systems Analysis and Development</strong> and a postgraduate certificate in <strong>Cybersecurity</strong>, reflecting my commitment to delivering secure and robust software.
